@@ -8,3 +8,6 @@ How to install the application ?
 3. Allow storage and camera access permission.
 4. Click on internet connection.
 5. You need to authenticate it by either google id or by phone number
+
+IMPORTANT : Please refer to ppt provided for further information
+
